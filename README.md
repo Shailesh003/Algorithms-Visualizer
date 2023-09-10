@@ -31,10 +31,9 @@
 ![image](https://github.com/Shailesh003/Algorithms-Visualizer/assets/85133291/4580154e-df2a-40d6-9867-f9748b7ff16d)
 
 ### Contact-info
-<p>
-  <a href="https://www.linkedin.com/in/shailesh-kumar-24a222207/"> LinkedIn</a><br>
+  <a href="https://www.linkedin.com/in/shailesh-kumar-24a222207/"> LinkedIn</a>
+
   Email: shaileshrajput003@gmail.com
-</p>
 
 
 
